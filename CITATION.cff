@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: >-
+  Similarity-Based Deduplication Fails on Composed Augmentation: A
+  Provenance-First Curation Protocol for Public Image Collections
+message: If you use this software or the released split indices, please cite it.
+type: software
+authors:
+  - family-names: Kag
+    given-names: Hitesh
+    affiliation: Marwadi University
+  - family-names: Saha
+    given-names: Himanshu N.
+    affiliation: Marwadi University
+  - family-names: Bhatt
+    given-names: Rudransh R.
+    affiliation: Marwadi University
+  - family-names: Kalla
+    given-names: Gauransh
+    affiliation: Manipal University Jaipur
+repository-code: 'https://github.com/REPLACE-ME/nail-audit'
+license: MIT
+date-released: '2026-10-19'
